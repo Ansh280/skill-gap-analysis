@@ -1,0 +1,21 @@
+skill,category,demand_count,pct_jobs
+Python,Programming,294,59.2
+SQL,Database,286,57.5
+ETL,Data Engineering,195,39.2
+Excel,Tools,185,37.2
+Tableau,Visualization,178,35.8
+Power BI,Visualization,177,35.6
+Communication,Soft Skills,175,35.2
+Data Warehousing,Data Engineering,138,27.8
+Azure,Cloud,129,26.0
+Stakeholder Management,Soft Skills,127,25.6
+DAX,Visualization,123,24.7
+Statistics,Math/Stats,120,24.1
+Docker,DevOps,117,23.5
+Git,Tools,112,22.5
+Machine Learning,AI/ML,110,22.1
+AWS,Cloud,108,21.7
+Problem Solving,Soft Skills,106,21.3
+Data Visualization,Analytics,103,20.7
+SSRS,Visualization,74,14.9
+Data Modeling,Data Engineering,72,14.5

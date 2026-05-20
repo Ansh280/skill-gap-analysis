@@ -1,0 +1,54 @@
+skill,category,course_count,total_credits
+Documentation,Soft Skills,3,7
+Statistics,Math/Stats,2,7
+Python,Programming,2,6
+Problem Solving,Soft Skills,2,6
+OOP Concepts,Programming,2,7
+NumPy,Programming,2,7
+Mathematics,Math/Stats,2,8
+Java,Programming,2,7
+Data Analysis,Analytics,2,7
+Agile,Methodology,2,5
+TCP/IP,Other,1,3
+Stakeholder Management,Soft Skills,1,3
+Search Algorithms,AI/ML,1,3
+Scikit-learn,AI/ML,1,3
+SQL,Database,1,4
+SDLC,Other,1,3
+Research Skills,Soft Skills,1,2
+Project Planning,Soft Skills,1,2
+Probability,Math/Stats,1,4
+Presentation,Soft Skills,1,2
+Pandas,Programming,1,3
+PHP,Programming,1,3
+OS Concepts,Programming,1,4
+Networking,Other,1,3
+Management,Soft Skills,1,3
+Machine Learning,AI/ML,1,3
+Logic Programming,AI/ML,1,3
+Linux,OS,1,4
+Linear Algebra,Math/Stats,1,4
+JavaScript,Programming,1,3
+JIRA,Tools,1,2
+Hadoop,Data Engineering,1,3
+HTML/CSS,Programming,1,3
+ETL,Data Engineering,1,3
+Database Design,Database,1,4
+Data Warehousing,Data Engineering,1,3
+Data Structures,Programming,1,4
+Data Modeling,Data Engineering,1,4
+Data Mining,Analytics,1,3
+Data Cleaning,Analytics,1,3
+Critical Thinking,Soft Skills,1,3
+Computer Architecture,Other,1,3
+Compiler Theory,Other,1,3
+Communication,Soft Skills,1,2
+Cloud Basics,Cloud,1,3
+Calculus,Math/Stats,1,4
+C Programming,Programming,1,4
+Big Data Concepts,Data Engineering,1,3
+Azure,Cloud,1,3
+Automata Theory,Other,1,3
+Algorithm Design,Programming,1,4
+AWS,Cloud,1,3
+AI Concepts,AI/ML,1,3

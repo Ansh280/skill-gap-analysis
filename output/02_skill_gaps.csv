@@ -1,0 +1,16 @@
+skill,category,demand_count,pct_jobs,college_coverage
+SQL,Database,286,57.5,1
+ETL,Data Engineering,195,39.2,1
+Excel,Tools,185,37.2,0
+Tableau,Visualization,178,35.8,0
+Power BI,Visualization,177,35.6,0
+Communication,Soft Skills,175,35.2,1
+Data Warehousing,Data Engineering,138,27.8,1
+Azure,Cloud,129,26.0,1
+Stakeholder Management,Soft Skills,127,25.6,1
+DAX,Visualization,123,24.7,0
+Docker,DevOps,117,23.5,0
+Git,Tools,112,22.5,0
+Machine Learning,AI/ML,110,22.1,1
+AWS,Cloud,108,21.7,1
+Data Visualization,Analytics,103,20.7,0

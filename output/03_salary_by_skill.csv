@@ -1,0 +1,19 @@
+skill,avg_salary,college_coverage,job_count
+PyTorch,18.83,0,58
+Computer Vision,18.2,0,59
+Mathematics,18.11,2,63
+TensorFlow,17.83,0,57
+Scikit-learn,17.76,1,60
+Deep Learning,17.74,0,59
+Research Skills,17.7,1,66
+NLP,17.55,0,59
+AWS,16.21,1,108
+Git,15.69,0,112
+Docker,15.29,0,117
+Apache Spark,14.26,0,55
+Databricks,13.7,0,61
+Scala,13.54,0,53
+Kafka,13.39,0,57
+Hadoop,13.21,1,51
+Airflow,13.09,0,49
+Statistics,12.94,2,120
